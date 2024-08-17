@@ -5,6 +5,8 @@
 LLM API ที่ใช้ในตัวอย่างใน Repo นี้เป็น LLM API ที่ผม Host ขึ้นมาเองนะครับ
 ถ้าอยากเปลี่ยนไปใช้ LLM API ที่อื่น ก็สามารถแก้ Config ในไฟล์ `application.properties` ได้เลย
 
+![](./application-properties.png)
+
 Build project
 
 ```sh
